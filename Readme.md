@@ -1,4 +1,4 @@
-This project simulates an web scraping a webpage.
+This project simulates an web scraping solution.
 It gets some especific information from a website.
 
 
