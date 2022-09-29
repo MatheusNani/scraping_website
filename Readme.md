@@ -1,3 +1,6 @@
+This project simulates an web scraping a webpage.
+It gets some especific information from a website.
+
 
 #To run this application go under the directory 'ConsoleApp1' using your CLI, then execute the command line 'dotnet run'
 
